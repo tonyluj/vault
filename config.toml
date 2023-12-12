@@ -1,0 +1,4 @@
+[photo]
+enable = true
+path = ["", ""]
+patter = ["*.arw", "*.ARW"]
