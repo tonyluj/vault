@@ -12,3 +12,5 @@ Recent milestones for this project are:
 2. Support disaster recovery mechanism and provide a more flexible data backup mechanism, such as backup on local disk, or AWS, Alibaba Cloud, etc.;
 3. It has a simple and easy-to-use interface without too much magic;
 4. Sufficient and reliable testing to ensure data security;
+
+To summarize in a few words, Vault is a reliable, stable, simple, scalable, and low-cost storage system. Vault is a temporary name. If you have a better name, please let me know.
