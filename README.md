@@ -16,9 +16,9 @@ Recent milestones for this project are:
 
 To summarize in a few words, Vault is a reliable, stable, simple, scalable, and low-cost storage system. Vault is a temporary name. If you have a better name, please let me know.
 
-# Project Status
+## Project Status
 Very early on and I'm not sure I can keep it going, I'll start by building a minimal usable prototype and putting some of my data on it to replace my Synology.
 
-# Tasks
+## Tasks
 - [ ] File management and operations with redundant mechanisms
 - [ ] Test cases to ensure my data is not lost or damaged
