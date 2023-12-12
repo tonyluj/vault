@@ -1,5 +1,5 @@
 Vault
---------
+=====
 
 Vault is an easy-to-use, secure storage for personal data.
 
