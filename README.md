@@ -1,5 +1,6 @@
 Vault
 --------
+
 Vault is an easy-to-use, secure storage for personal data.
 
 The reason for developing this project is because I have a lot of private data that needs to be stored, such as photos, music, and videos. I hope that the data can be saved for a long time without too much cost, but the current solution cannot meet my needs. :
@@ -14,3 +15,10 @@ Recent milestones for this project are:
 4. Sufficient and reliable testing to ensure data security;
 
 To summarize in a few words, Vault is a reliable, stable, simple, scalable, and low-cost storage system. Vault is a temporary name. If you have a better name, please let me know.
+
+# Project Status
+Very early on and I'm not sure I can keep it going, I'll start by building a minimal usable prototype and putting some of my data on it to replace my Synology.
+
+# Tasks
+- [ ] File management and operations with redundant mechanisms
+- [ ] Test cases to ensure my data is not lost or damaged
